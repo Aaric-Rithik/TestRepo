@@ -249,5 +249,7 @@ git log --oneline
 git config --global alias.l1 "log --oneline"
 git l1
 
+git push 
+
 
 
