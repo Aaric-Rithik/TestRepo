@@ -1,23 +1,20 @@
-iidofiashfohas
-nklfnlaksnfgit init
+git init
 git config --global user.name "Polarapu Prasad"
 git config --global user.email "devopstraining2015@gmail.com"
 
 git config --list
 
-hkfdashklfhasdkl
-
 touch prasad
-sdfkladsjhfkadsls
-git statusmsdklfnadsklnfadslk
+ls
+git status
 git add prasad
 git status
 git commit -m "1st commit" prasad
 git status
-git log sladnfkladsnfklads
+git log
 git show cid
 ---------------------------
-touch file2 file3 file4 fisdfjkabsdfjbasdle5
+touch file2 file3 file4 file5
 ls
 git status
 git add file2 file3 file4 file5
@@ -26,7 +23,7 @@ git add .
 or
 git add *
 or
-git add -Ashflkahslkfas
+git add -A
 git status
 git commit -m "label"
 
@@ -35,12 +32,11 @@ git reset --soft cid  (local to staging)
 git reset head file-name (staging to workspace)
 git reset --mixed cid  (local to workspace)
 git reset --hard cid (it will delete files and log's)
-sdfhlaskdhfsklda
+
 
 
 git clone https://github.com/swathichowdaryc/Repo1.git
-lsfjsaldkfhdalskfhlaskfhlaskdfwpjprowerpoqewiponasfnsaklnflkasjfkladsjfkadsjkljfsdkljdsklsjaklfjjjjjjjjlkasjdffffffffffff
-
+ls
 cd Repo1
 touch file1
 git status
@@ -51,7 +47,7 @@ git status
 git push
 
 ----------------------------
-sadfnadsflkhalkkkhladfskkkkkkkfhlioweruiowqeuioqryuoin zx,msvnzlvk;ldsahfklashkflasgit clone https://github.com/polarapu/batch66.git
+git clone https://github.com/polarapu/batch66.git
 ls
 cd batch66
 touch name
@@ -90,7 +86,7 @@ git log --author=prasad -n
 git log --author=prasad --oneline
 git log --author=prasad --oneline -n
 
-git log --since=yy-mm-dddfasfjdaskljf
+git log --since=yy-mm-dd
 or
 git log --after="yy-mm-dd"
 
@@ -133,7 +129,7 @@ cat >> file-name
 ....
 ctrl+d
 
-dnfaskjhfklhasdklfasd
+
 VI
 ---
 vi file6
@@ -146,7 +142,7 @@ esc i (insert mode)
 esc :w!
 esc :q!
 or
-esc :wq!sdfnhaskjlfhaslk
+esc :wq!
 
 
 BRANCH
@@ -176,7 +172,7 @@ tag
 ----
 git tag
 git tag tag-name
-git show tag-nameldfhklashflkasfadshfladshfladsfhadsfaklfasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+git show tag-name
 
 git tag t-1.0 cid
 git checkout tag-name
@@ -251,9 +247,9 @@ git l
 
 git log --oneline
 git config --global alias.l1 "log --oneline"
-git l1sfjdaslkjfkladsjdfljas
+git l1
 
-gsajfdlaksfkljadskljfdasit push 
-d
-sdfjadskfhkladshklfdsaklfadsd
+git push 
+
+
 
